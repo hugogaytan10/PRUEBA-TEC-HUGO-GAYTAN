@@ -16,3 +16,5 @@ Para esta prueba hice uso de: React js, Tailwind, daisyUI
 
 No es necesario instalar nada en absoluto, solo ingresar al link proporcionado 
 
+https://hugogaytan10.github.io/PRUEBA-TEC-HUGO-GAYTAN/
+
